@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ydm/programs/OpenCv/build",
+  "command": "/usr/bin/c++   -I/home/ydm/linuxSDK_V2.1.0.20/lib/x86 -I/home/ydm/linuxSDK_V2.1.0.20/include -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/run.dir/test.cpp.o -c /home/ydm/programs/OpenCv/test.cpp",
+  "file": "/home/ydm/programs/OpenCv/test.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/ydm/programs/OpenCv/build/CMakeFiles/rebuild_cache.dir
+/home/ydm/programs/OpenCv/build/CMakeFiles/run.dir
+/home/ydm/programs/OpenCv/build/CMakeFiles/edit_cache.dir
